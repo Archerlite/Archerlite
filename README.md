@@ -1,3 +1,3 @@
-I'm French, first year of STEM/engineering further education studies.
+Third year of further education in physics.
 Working w/ Arduino and Python.
 Currently working on telecommunication systems.
